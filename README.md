@@ -5,3 +5,5 @@ For this project,k-means has been implemented on Microsoft Excel.Any dataset can
 
 When do we stop solving for k-means?  OR    What is the stopping condition for k-means?
 We stop when the distance between the clusters do not change or the cluster centres remain the same.
+
+For both the datasets almost 5 to 6 different clusters have been selected and k-means is performed for the respective clusters.
